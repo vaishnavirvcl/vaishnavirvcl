@@ -13,7 +13,6 @@
 📜 Certifications:
 - Career Essentials for Data Analysis from Microsoft & LinkedIn.
 - Python with Data Science from NPTEL.
-- Successfully qualified in the internal hackathon round for the Smart India Hackathon.
 - Certificate for Project Completion from KMIT.
 
 📧 Feel free to reach out to me at ravalcolv@gmail.com or connect with me on https://www.linkedin.com/in/vaishnavi-ravalcol-41a57a2ba/ .
